@@ -1,4 +1,4 @@
-# CVT_ProgrammingTask - User Management System
+# Simple User Management System
 ## Tech Stack
 1.	Language : Java,TypeScript,HTML
 2.	Framework: Spring Boot, Angular
